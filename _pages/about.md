@@ -2,25 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Researcher @ Yonsei University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+images:
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher in the Department of <b>Chemical and Biomolecular Engineering</b> at Yonsei University, South Korea, supervised by [Prof. Byungchan Han](https://www.bchansgroup.net/). I obtained my Ph.D. from the <b>Department of Chemical and Biomolecular Engineering</b> at Yonsei University in 2023, and Bachelor of engineering in <b>Energy and Evironmental Science and Engineering</b> at the same institute in 2018.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b>Research Interests</b>: During my Ph.D., I worked on the materials simulations to design adsorbents, solid ionic conductors, and catalysts materials using <b>First-principles calculations</b>, and devloped machine-learning interatomic potentials integrated with first-principles data for crystalline polymers and alloy nanoparticles. Currently, I am interested in <b>high-throughput virtual screening</b> of energy materials. Specifically, I focus on atomic local environments engineering to activate the site properties toward the target applications.
