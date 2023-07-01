@@ -12,7 +12,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-images:
+images: []
 ---
 
 I am a postdoctoral researcher in the Department of <b>Chemical and Biomolecular Engineering</b> at Yonsei University, South Korea, supervised by [Prof. Byungchan Han](https://www.bchansgroup.net/). I obtained my Ph.D. from the <b>Department of Chemical and Biomolecular Engineering</b> at Yonsei University in 2023, and Bachelor of engineering in <b>Energy and Evironmental Science and Engineering</b> at the same institute in 2018.
