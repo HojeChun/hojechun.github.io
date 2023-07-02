@@ -1,6 +1,0 @@
-# Main navigation items
-main:
-  - title: "About me"
-    url: "/cv/"
-  - title: "Publications"
-    url: "/publications/"
