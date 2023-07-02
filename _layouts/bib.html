@@ -232,7 +232,8 @@
     
             // Set the text of the div as the decrementing number
             numDiv.innerText = count - i;
-    
+            // Set the text of the div as the decrementing number followed by a period
+            numDiv.innerText = (count - i) + ".";    
             // Insert the numbering div as the first child of the publication div
             publications[i].insertBefore(numDiv, publications[i].firstChild);
         }
