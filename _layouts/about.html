@@ -50,14 +50,14 @@ layout: default
           <button type="button" class="slick-next"><i class="fas fa-chevron-right"></i></button>
           
           <!-- News -->
-          {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+          <!-- {% if page.news -%}
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;"><span style="font-weight:415">News</span></a></h2>
             {%- include news.html %}
-          {%- endif %}
+          {%- endif %} -->
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;"><span style="font-weight:415">Selected publications</span></a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
