@@ -4,3 +4,10 @@ main:
     url: "/cv/"
   - title: "Publications"
     url: "/publications/"
+  # - title: "Board"
+  #   dropdown: true
+  #   children:
+  #     - title: "Publications"
+  #       url: "/publications/"
+  #     - title: "Projects"
+  #       url: "/projects/"
