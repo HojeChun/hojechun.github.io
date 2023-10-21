@@ -2,6 +2,11 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
+      institution: MIT, Cambridge, USA
+      year: 2023-
+      description:
+      - Advisor (Prof. Rafael Gómez-Bombarelli)
+    - title: Postdoctoral Associate
       institution: Yonsei University, Seoul, South Korea
       year: 2023-
       description:
@@ -46,6 +51,8 @@
 - title: Honors and Awards
   type: list
   contents:
+    - BK21 Plus Postdoctoral Scholarship, Yonsei University (2023-2024)
+    - Program of Fostering Global Leaders for Innovative Growth Industry (2023-2024)
     - Global Ph.D. Fellowship, The National Research Foundation of Korea (NRF) (2019-2023)
     - Best Poster Award, The Korean Institute of Surface Engineering (2022)
     - Best Poster Award, The Korean Institute of Chemical Engineers (2022)
